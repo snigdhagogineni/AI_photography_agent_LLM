@@ -1,0 +1,11 @@
+streamlit==1.26.0
+requests==2.31.0
+Pillow==10.0.1
+Flask==2.3.2
+Flask-Cors==4.0.0
+python-dotenv==1.0.0
+bcrypt==4.0.1
+pytz==2023.3
+sendgrid==6.11.0
+replicate==0.11.1
+mysql-connector-python==8.1.0
