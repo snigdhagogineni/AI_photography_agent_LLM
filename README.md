@@ -32,7 +32,8 @@ User → Streamlit (Frontend) → Flask (Backend) → MySQL (Database)
                              SendGrid (Email Notifications)
 ```
 
-System Block diagram-
+##System Block diagram
+
 <img width="274" alt="image" src="https://github.com/user-attachments/assets/599d13d8-7f72-46be-b05f-7bbd1133f172" />
 
 ## 📁 Data Organization
