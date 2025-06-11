@@ -56,7 +56,6 @@ User → Streamlit (Frontend) → Flask (Backend) → MySQL (Database)
 
 ## ⚠️ Limitations
 - High training time and cloud computational costs
-- May overfit with small datasets
 - Dependence on external APIs (Replicate, SendGrid)
 - Limited control over prompt effectiveness
 
